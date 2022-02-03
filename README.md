@@ -20,8 +20,6 @@
 
 <h2>Download</h2>
 
-<a>Caso esteja interessado, favor explore a criação, os códigos do meu projeto estão em >> Assets >> Scripts, todos os arquivos .cs são referentes a contrução do jogo, caso apenas queira experimentar o resultado clique no link abaixo.</a>
-
-<a href="https://drive.google.com/u/1/uc?id=17FYj_5guWGVTwwfQW_LK-pnr1WQerGny&export=download">Drive</a> 
+<a>Caso esteja interessado, favor explore a criação, os códigos do meu projeto estão em >> Assets >> Scripts, todos os arquivos .cs são referentes a contrução do jogo, caso apenas queira experimentar o resultado baixe e jogue em **Releases**.</a>
 
 #### Pode demorar um pouco mas o link está funcionando.
